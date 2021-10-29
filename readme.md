@@ -1,5 +1,3 @@
-# hacktoberfest [![Build Status](https://travis-ci.org/ziyaddin/hacktoberfest.svg?branch=master)](https://travis-ci.org/ziyaddin/hacktoberfest)
-
 > View Details of a Pokemon
 
 
@@ -29,6 +27,8 @@ $ pokeapi --help
 
 - [pokedex-promise-v2](https://github.com/PokeAPI/pokedex-promise-v2) - API for this module
 
+## Inspired by
+- [hacktoberfest](https://github.com/ziyaddin/hacktoberfest)
 
 ## License
 
