@@ -1,0 +1,29 @@
+{
+  "name": "pokecli",
+  "version": "0.2.0",
+  "description": "View pokemon information directly inside your terminal",
+  "license": "MIT",
+  "repository": "l0min/pokecli",
+  "author": {
+    "name": "Dennis Braun",
+    "email": "dbraun.webdev@gmail.com",
+    "url": "l0min.github.io"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "pokecli",
+    "stats",
+    "statistics",
+    "contributions"
+  ],
+  "dependencies": {
+    "pokedex-promise-v2": "^3.3.2",
+    "meow": "^3.7.0"
+  }
+}
